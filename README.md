@@ -71,7 +71,7 @@ Dataset Link: [Kaggle Dataset](https://www.kaggle.com/datasets/computingvictor/t
 ## 🖼️ Dashboard Preview
 
 ### Overview Dashboard
-![Overview](images/Home.jgp)
+![Overview](images/Home.jpg)
 
 ### Merchant Analysis
 ![Merchant](images/Merchant_Performance.jpg)
@@ -83,7 +83,7 @@ Dataset Link: [Kaggle Dataset](https://www.kaggle.com/datasets/computingvictor/t
 ![Card](images/Bank_Card_insights.jpg)
 
 ### Insights and Recommendations
-![Insights and Recommendations](images/Business_Insights_and_Recommendations.jpg)
+![Insights and Recommendations](images/Business_Insights_and_Recommendation.jpg)
 
 ---
 
