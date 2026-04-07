@@ -17,7 +17,7 @@ Dataset Link: [Kaggle Dataset](https://www.kaggle.com/datasets/computingvictor/t
 
 The complete Power BI dashboard file is available via Google Drive due to size limitations.
 
-👉 [Access PBIX File]([https://drive.google.com/file/d/1v7JQYPr9bPDwTlMi3is9w-TK9qBNJPPI/view?usp=sharing])
+👉 [Access PBIX File](https://drive.google.com/file/d/1v7JQYPr9bPDwTlMi3is9w-TK9qBNJPPI/view?usp=sharing)
 
 This file contains the full data model, transformations, and interactive visualizations used in this project.
 
