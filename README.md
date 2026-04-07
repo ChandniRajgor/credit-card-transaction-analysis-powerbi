@@ -17,7 +17,7 @@ Dataset Link: [Kaggle Dataset](https://www.kaggle.com/datasets/computingvictor/t
 
 The complete Power BI dashboard file is available via Google Drive due to size limitations.
 
-👉 [Access PBIX File]([PASTE_LINK](https://drive.google.com/file/d/1v7JQYPr9bPDwTlMi3is9w-TK9qBNJPPI/view?usp=sharing))
+👉 [Access PBIX File]([PASTE_LINK](https://drive.google.com/file/d/1v7JQYPr9bPDwTlMi3is9w-TK9qBNJPPI/view?usp=sharing)
 
 This file contains the full data model, transformations, and interactive visualizations used in this project.
 
@@ -108,12 +108,4 @@ This file contains the full data model, transformations, and interactive visuali
 - Provided insights for **merchant optimization**
 
 ---
-
-## 📁 Project Structure
-```plaintext
-credit-card-analysis/
- ├── Credit_Card_Dashboard.pbix
- ├── README.md
- ├── images/
- ├── data/ (optional)
 ```
