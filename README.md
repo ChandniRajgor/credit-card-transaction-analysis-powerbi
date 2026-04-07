@@ -13,6 +13,13 @@ Download dataset from Kaggle
 Dataset Link: [Kaggle Dataset](https://www.kaggle.com/datasets/computingvictor/transactions-fraud-datasets?select=users_data.csv).
 
 ---
+## 📁 Power BI Dashboard File
+
+The complete Power BI dashboard file is available via Google Drive due to size limitations.
+
+👉 [Access PBIX File]([PASTE_LINK](https://drive.google.com/file/d/1v7JQYPr9bPDwTlMi3is9w-TK9qBNJPPI/view?usp=sharing))
+
+This file contains the full data model, transformations, and interactive visualizations used in this project.
 
 ## 🎯 Objectives
 - Analyze overall **transaction performance and trends**
